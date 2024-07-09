@@ -32,8 +32,7 @@
 
 ## Project Description
 
-This project implements encryption and decryption functionalities in Python. The program allows users to encrypt and decrypt text using various algorithms.
-
+The Toy Stone Paper Scissors Project is a fun and interactive game that simulates the classic Rock-Paper-Scissors game using Python.
 
 ###
 
