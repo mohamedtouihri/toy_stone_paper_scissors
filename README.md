@@ -1,4 +1,4 @@
-﻿# Toy Stone Paper Scissors
+﻿# Toy Stone Paper Scissors Project
 
 ## Setup Instructions
 
